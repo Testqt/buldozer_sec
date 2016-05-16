@@ -1,0 +1,40 @@
+.banner{
+	background-color:#949ba3;
+	text-align:center;
+	padding-top:48px;
+	color:#fff;	
+}
+.slider{
+	display:none;
+	overflow:hidden;
+}
+.slider img{
+	width:100%;
+}
+.bannerheader{
+	font-family:"Times New Roman";
+}
+.bannerheader h1{
+	font-size:2.666666rem;
+}
+.bannerheader h2{
+	font-size:1.666666rem;
+}
+.banner-wrap{
+	position:relative;
+}
+.feedback{
+	background-color:#4a4d51;
+	font-size:0;
+}
+.feedback>*{
+	display:inline-block;
+	vertical-align:top;		
+}
+.feedback-header h1{
+	font-size:1.666666rem;
+	color:#f3af00;
+}
+.feedback-header h2{
+	font-size:1rem;	
+}
